@@ -154,7 +154,7 @@ This project is created for CSE 489 Lab Exam - Mobile Application Development.
 
 ## Developer
 
-Created by: [Your Name]  
-Student ID: [Your ID]  
+Created by: Shahjalal Farhan Bhuiyan  
+Student ID: 22299307 
 Course: CSE 489 - Mobile Application Development  
-Institution: [Your University]
+Institution: BRAC University
